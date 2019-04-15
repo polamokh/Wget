@@ -1,0 +1,6 @@
+c:\users\pola mikhail\documents\visual studio 2017\Projects\Wget(NetworksProject)\Wget(NetworksProject)\bin\Debug\Wget(NetworksProject).exe.config
+c:\users\pola mikhail\documents\visual studio 2017\Projects\Wget(NetworksProject)\Wget(NetworksProject)\bin\Debug\Wget(NetworksProject).exe
+c:\users\pola mikhail\documents\visual studio 2017\Projects\Wget(NetworksProject)\Wget(NetworksProject)\bin\Debug\Wget(NetworksProject).pdb
+c:\users\pola mikhail\documents\visual studio 2017\Projects\Wget(NetworksProject)\Wget(NetworksProject)\obj\Debug\Wget(NetworksProject).csprojResolveAssemblyReference.cache
+c:\users\pola mikhail\documents\visual studio 2017\Projects\Wget(NetworksProject)\Wget(NetworksProject)\obj\Debug\Wget(NetworksProject).exe
+c:\users\pola mikhail\documents\visual studio 2017\Projects\Wget(NetworksProject)\Wget(NetworksProject)\obj\Debug\Wget(NetworksProject).pdb
